@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "731935072317",
+    "project_id": "firbasestorege",
+    "storage_bucket": "firbasestorege.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731935072317:android:a4e69ca8cb31194a0cca54",
+        "android_client_info": {
+          "package_name": "com.projecteg.firbaseeg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731935072317-u18vaal84af236rkk0f72kphdu5uutne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByBg03HdCfGKr7UJ5HWRbu1dK086rRlk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731935072317-u18vaal84af236rkk0f72kphdu5uutne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
